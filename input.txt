@@ -1,0 +1,16 @@
+Nombre de la empresa: Grupo TDM
+Giro de la empresa: Construcción
+Cargo y Fecha: Asistente de Proyectos (22/03/2016 hasta 01/12/2016)
+Tiempo de permanencia: 9 meses
+Funciones y Logros:
+Soporte a los Key User en el proyecto de implementación de ERPSAP módulo Logística y Comercial.
+Diagnósticos, evaluaciones y entrevistas con  los responsables de los procesos.
+Participación en las pruebas de los procesos de SAP para el ciclo de ventas y compras.
+Líder de la gestión de cambio y capacitación a los usuarios del ERP.
+Seguimiento del proyecto mediante metodología PMBOK, desarrollo de reportes, KPI’s y Bussines Blue Print (diseño bajo el esquema del ISO 90001).
+Responsable de la documentación y actualización de los procesos para la Auditoria ISO 9001 Externa.
+Logros Destacados:
+Operatividad real del ERP sin desviaciones en alcance, tiempo y costo.
+Mejora y estandarización de los procesos comerciales y logísticos.
+Generación de nuevos reportes comerciales y logísticos (Eficiencia de la Venta, Fill Rate)
+Auditoria Externa sin no conformidades.
